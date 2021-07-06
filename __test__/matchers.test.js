@@ -10,7 +10,7 @@ describe('Comparadores comunes', () => {
         lastname: "caute"
     };
 
-    test('igualdad de elementos', () => {
+    test('Igualdad de elementos', () => {
         expect(user).toEqual(user2);
     });
 
