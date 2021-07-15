@@ -1,9 +1,9 @@
-import "regenerator-runtime/runtime";
+//import "regenerator-runtime/runtime";
 
 import { getdataFromApi } from "../promise";
 
-setTimeout(function() {}, 5000);
 describe('Provar Async/Await', () => {
+    setTimeout(function() {}, 5000);
     test('Realizar una peticion a una api', async() => {
         const api = 'https://rickandmortyapi.com/api/character/';
         const getRick = 'https://rickandmortyapi.com/api/character/1';
