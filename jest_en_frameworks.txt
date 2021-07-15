@@ -1,0 +1,3 @@
+https://github.com/luisfc1/platzi-express-jest
+https://github.com/luisfc1/platzi-vue-jest
+https://github.com/luisfc1/platzi-react-jest
